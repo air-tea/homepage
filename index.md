@@ -7,4 +7,4 @@ I’m an undergradute student in the Department of Electrical and Electronics En
 - Deep Reinforcement Learning
 
 ## Academia
-- **Southern University of Science and Technology | Bachelor** September. 2018 - present
+- Southern University of Science and Technology | Bachelor September. 2018 - present
