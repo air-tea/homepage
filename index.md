@@ -8,4 +8,4 @@ I’m an undergradute student in the Department of Electrical and Electronics En
 ## Academia
 - Southern University of Science and Technology(Bachelor) September. 2018 - present
 ## Friend Links
-[Zhenyu Ren](https://rzy0901.github.io/): 本科大佬同学，通信感知一体化专家，南科大硕士，华为2012无线技术实验室，LASSO实验室核心成员:clap:。
+[Zhenyu Ren](https://rzy0901.github.io/): 本科大佬同学，通信感知一体化专家，南科大硕士，曾在华为2012无线技术实验室实习，LASSO实验室核心成员^_^
