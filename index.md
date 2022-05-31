@@ -1,6 +1,6 @@
 ## Brief Bio
-I’m an undergradute student in the Department of Electrical and Electronics Engineering at Southern University of Science and Technology (SUSTech). I am currently studying in Lab of Wireless Communications and System Optimization (LASSO) and being supervised by Prof. [Wang Rui](http://lasso.eee.sustech.edu.cn/).\
-I am going to join Intelligent Networking and Multimedia Lab in The Chinese University of Hong Kong, Shenzhen as a PhD student and being supervised by Prof. [Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/index.html)
+I'm an undergradute student in the Department of Electrical and Electronics Engineering at Southern University of Science and Technology (SUSTech). I am currently studying in Lab of Wireless Communications and System Optimization (LASSO) and being supervised by Prof. [Wang Rui](http://lasso.eee.sustech.edu.cn/).\
+I'm going to join Intelligent Networking and Multimedia Lab in The Chinese University of Hong Kong, Shenzhen as a PhD student and being supervised by Prof. [Fangxin Wang](https://mypage.cuhk.edu.cn/academics/wangfangxin/index.html)
 
 ## Academia
 - Southern University of Science and Technology, 2018.9 - 2022.7
