@@ -12,8 +12,9 @@ I'm going to join Intelligent Networking and Multimedia Lab in The Chinese Unive
 - Deep Learning & Deep Reinforcement Learning
 
 ## Rewards
-- Outstanding graduate of ZhiRen College-2022
-- Outstanding graduate of Department of Electronic and Electrical Engineering-2022
+- Excellent undergraduate thesis
+- Outstanding graduate of ZhiRen College
+- Outstanding graduate of Department of Electronic and Electrical Engineering
 - Honerable mention MCM/ICM-2021
 - The third prize of Outstanding Student Scholarship-2021
 - The third prize of Outstanding Student Scholarship-2020
